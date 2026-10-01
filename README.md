@@ -5,7 +5,7 @@ Python Full-Stack Developer focused on building clean, practical web application
 - Languages: Python, SQL, HTML, CSS, JavaScript (basics)
 - Backend: Flask, REST APIs
 - Database: MySQL
-- Tools: Git, GitHub, Jupyter Notebook, VS Code
+- Tools: Git, GitHub, VS Code
 
 ## 📌 Featured Projects
 - [python-course-work](https://github.com/Bhavaniprasad-gurram/python-course-work) — 21-day Python fundamentals: data types, OOP, file handling, comprehensions & generators.
